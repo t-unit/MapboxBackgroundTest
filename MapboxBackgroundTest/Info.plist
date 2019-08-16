@@ -53,6 +53,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>MGLMapboxAccessToken</key>
+	<string>&lt;PUT API KEY HERE&gt;</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Used to test background updates triggered by Mapbox</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Used to test background updates triggered by Mapbox</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
